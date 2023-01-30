@@ -1,5 +1,2 @@
-# springboard
 my stuff.
-Here is some new text.
-
-
+springboard week 01.
