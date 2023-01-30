@@ -1,2 +1,2 @@
 # springboard
-my sutff.
+my stuff.
